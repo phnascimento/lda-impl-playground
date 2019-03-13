@@ -1,0 +1,40 @@
+Topic0: android(0.068003) studio(0.051874) kotlin(0.048129) file(0.044097) project(0.025951) new(0.018463) creat(0.01443) problem(0.014142) id(0.013854) idea(0.01155) show(0.011262) help(0.009822) kt(0.009534) just(0.008958) can(0.00867) thank(0.00867) plugin(0.007517) doesn(0.007517) folder(0.007517) intellij(0.007229)
+
+Topic1: dagger(0.048764) annot(0.042577) gener(0.032523) inject(0.028655) class(0.027882) us(0.026335) compon(0.024015) work(0.019374) depend(0.016667) error(0.015894) applic(0.01512) get(0.014734) problem(0.014734) dagger2(0.014734) kapt(0.014734) kt(0.014347) modul(0.013187) activ(0.01164) provid(0.01164) try(0.009706)
+
+Topic2: kotlin(0.061994) build(0.056504) android(0.050891) gradl(0.048939) project(0.03747) error(0.032711) studio(0.020754) file(0.019778) us(0.019046) modul(0.018314) app(0.01685) version(0.015874) plugin(0.015142) compil(0.014288) try(0.012579) follow(0.011115) fail(0.010749) run(0.010749) updat(0.010505) tri(0.010383)
+
+Topic3: kotlin(0.064652) android(0.048497) us(0.041845) librari(0.03646) can(0.026323) java(0.022522) support(0.013019) project(0.011752) develop(0.011435) will(0.010802) need(0.010485) work(0.009851) wai(0.009535) possibl(0.009535) languag(0.008901) read(0.007634) lint(0.007317) api(0.007001) new(0.006684) write(0.00605)
+
+Topic4: data(0.040591) kotlin(0.033032) us(0.027237) class(0.027237) realm(0.024969) object(0.01993) json(0.018922) databas(0.018166) get(0.017662) bind(0.016403) like(0.015647) room(0.015647) field(0.015395) model(0.013883) can(0.012623) follow(0.011111) gson(0.010356) want(0.0096) know(0.0096) creat(0.009348)
+
+Topic5: null(0.052671) com(0.023368) non(0.020362) code(0.018108) android(0.016605) exampl(0.015103) 19(0.012848) art(0.012097) 21(0.012097) 06(0.009843) ve(0.009092) content(0.009092) 05(0.009092) 8150(0.009092) wolfban(0.009092) data(0.00834) add(0.007589) time(0.007589) fix(0.007589) 37(0.007589)
+
+Topic6: observ(0.038169) return(0.030672) call(0.029043) rxjava(0.026761) list(0.023827) data(0.021872) retrofit(0.020894) request(0.01959) method(0.018612) us(0.01633) api(0.014701) task(0.011441) fetch(0.009485) complet(0.008833) respons(0.008833) result(0.008507) wai(0.008507) item(0.008507) creat(0.008181) make(0.007856)
+
+Topic7: log(0.039841) get(0.022636) event(0.020485) messag(0.019947) firebas(0.016184) send(0.016184) code(0.015646) callback(0.011345) file(0.010807) call(0.009732) server(0.009732) notif(0.009194) us(0.008656) receiv(0.008656) handler(0.008119) will(0.007581) listen(0.007581) even(0.007043) know(0.007043) sai(0.007043)
+
+Topic8: class(0.062751) kotlin(0.061677) like(0.025156) can(0.022793) method(0.022578) object(0.02086) constructor(0.019786) java(0.017637) error(0.016993) interfac(0.016993) get(0.016563) implement(0.016348) try(0.015489) us(0.012911) creat(0.012696) android(0.011837) paramet(0.011837) on(0.010548) type(0.009689) someth(0.008829)
+
+Topic9: error(0.055782) kotlin(0.052162) code(0.033576) get(0.033576) us(0.026334) follow(0.02561) type(0.024162) function(0.02392) can(0.022472) try(0.018127) call(0.013783) string(0.013058) work(0.011852) android(0.010162) compil(0.009679) lambda(0.009679) set(0.009196) syntax(0.008714) sai(0.007265) line(0.007024)
+
+Topic10: view(0.065821) anko(0.046153) us(0.03971) layout(0.039032) xml(0.03598) custom(0.018346) can(0.017668) id(0.014277) like(0.013937) import(0.013598) synthet(0.01292) activ(0.012581) work(0.011903) textview(0.011225) kotlin(0.010546) dsl(0.010207) add(0.009868) creat(0.009529) tri(0.00919) code(0.008512)
+
+Topic11: test(0.159103) class(0.040907) run(0.037502) unit(0.023396) us(0.018532) espresso(0.018046) mock(0.017559) mockito(0.013668) method(0.01075) code(0.010263) write(0.010263) work(0.009777) simpl(0.009777) exampl(0.008804) pass(0.008318) instrument(0.008318) fail(0.007831) junit(0.007831) creat(0.007345) want(0.007345)
+
+Topic12: activ(0.084518) button(0.048186) click(0.020028) intent(0.015032) on(0.014578) press(0.014124) back(0.014124) want(0.01367) dialog(0.01367) android(0.010491) work(0.010491) app(0.010491) write(0.009583) user(0.009583) webview(0.009583) open(0.00822) can(0.007766) launch(0.007766) anoth(0.007766) custom(0.007312)
+
+Topic13: servic(0.030554) thread(0.024225) updat(0.013867) ui(0.011566) oper(0.011566) exampl(0.01099) local(0.010415) main(0.009839) problem(0.009839) background(0.009839) question(0.008689) run(0.008689) coroutin(0.008689) call(0.008113) instanc(0.008113) anoth(0.008113) separ(0.008113) like(0.007538) app(0.007538) comput(0.007538)
+
+Topic14: kotlin(0.111853) java(0.079863) class(0.062895) code(0.059) convert(0.051211) android(0.027567) us(0.022838) refer(0.016996) project(0.012824) compil(0.011989) file(0.011155) unresolv(0.01032) on(0.01032) want(0.008929) try(0.008651) written(0.00726) time(0.00726) start(0.006982) error(0.006982) thank(0.006982)
+
+Topic15: work(0.028539) us(0.027305) try(0.022526) kotlin(0.019905) code(0.01898) ve(0.018825) get(0.017746) just(0.01605) app(0.015742) android(0.013121) time(0.012967) don(0.012504) wai(0.012042) see(0.011887) also(0.011733) make(0.0105) run(0.010346) like(0.010191) issu(0.009729) tri(0.009266)
+
+Topic16: fragment(0.054402) item(0.023762) recyclerview(0.018354) adapt(0.016852) view(0.016552) can(0.016252) show(0.016252) work(0.014449) chang(0.013248) load(0.013248) imag(0.012947) like(0.012346) us(0.012046) listen(0.010844) call(0.010244) anim(0.009943) scroll(0.009643) activ(0.009342) creat(0.008742) layout(0.008742)
+
+Topic17: proguard(0.049134) state(0.026189) present(0.02065) keep(0.016694) rule(0.010365) interactor(0.010365) thing(0.009574) buffer(0.007991) concept(0.0072) stream(0.0072) need(0.006409) implement(0.006409) packag(0.006409) believ(0.006409) config(0.006409) creat(0.005618) like(0.005618) attempt(0.005618) on(0.005618) visibl(0.005618)
+
+Topic18: kotlin(0.037172) us(0.036711) function(0.036249) call(0.032557) method(0.026097) properti(0.025866) can(0.025635) like(0.020559) code(0.019867) extens(0.019867) wai(0.018482) want(0.014329) return(0.014329) variabl(0.013867) will(0.012483) type(0.010406) exampl(0.009945) android(0.009714) someth(0.009714) valu(0.008791)
+
+Topic19: app(0.058746) android(0.037809) crash(0.028778) code(0.027136) error(0.025904) java(0.021388) except(0.020978) work(0.018104) devic(0.016052) us(0.015641) caus(0.012767) run(0.012357) throw(0.011946) method(0.011536) lang(0.011536) fine(0.010304) follow(0.009483) api(0.009073) add(0.008252) intern(0.008252)
+
